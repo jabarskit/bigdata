@@ -1,0 +1,33 @@
+"Buch-Nr";"ISBN";"Titel";"Verlag";"Kategorie";"Preis";"Statistik"
+1;"12222222";"Wirtschaftsinformatik";"UTB";"EDV";100.00;
+2;"13455545";"Einführung in die Wirtschaftsinformatik";"Hanser";"EDV";89.00;
+3;"23455212";"Datenbanken";"Teubner";"EDV";160.00;
+4;"63646464";"Access";"bhv";"EDV";102.80;
+5;"23121213";"Jedermann";"xyz";"Krimi";60.00;
+6;"626262626262";"Access professionell";"Addison-Wesley";"EDV";89.90;
+7;"6363636363";"Mord und Mörder";"Ki-Verlag";"Krimi";19.00;
+8;"2827627272";"Mord und Mörder II";"Ki-Verlag";"Krimi";19.00;
+9;"282762872";"Elfen 1";"Träumer";"Fantasy";10.00;
+10;"282828282";"Elfen 2";"Träumer";"Fantasy";20.00;
+11;"272727272";"Elfen 3";"Träumer";"Fantasy";20.00;
+12;"3983939393";"Zwerge";"Bastei";"Fantasy";20.00;
+13;"3737373";"Kobolde";"Bastei";"Fantasy";20.00;
+14;"383838383";"Sonne. Mond und Sterne";"Bastei";"Kinderbücher";20.00;
+15;"393939393";"Indiandergeschichten";"W-Verlag";"Kinderbücher";20.00;
+16;"1414141";"Das große Malbuch";"Bastei";"Kinderbücher";5.00;0
+17;"2314141";"Das kleine Zeichenbuch";"Bastei";"Kinderbücher";12.00;0
+18;"7347543754";"USA ohne einen Pfennig";"klett";"Reiseführer";20.00;0
+19;"8787656";"Südamerika mit dem Fahrrad";"Obercool";"Reiseführer";60.00;0
+20;"6543543";"Zum Südpol im Tretboot";"klett";"Reiseführer";30.00;0
+21;"676876";"Heidelberg im Herbst";"Springer";"Reiseführer";40.00;0
+22;"986768";"Mannheim bei Nacht";"Springer";"Reiseführer";10.00;0
+23;"765745";"Pokemon I";"klett";"Kinderbücher";180.00;0
+24;"876876";"Pokemon II";"klett";"Kinderbücher";190.00;0
+25;"897687";"Tierarztbesuche ohne Streß";"Küstner";"Sonstige";30.00;0
+26;"12538";"Das fröhliche Kinder Buch";"Kinder-Verlag";"Wissenschaft";50.00;0
+27;"989865";"Kinder";"Leben";"Sonstige";30.00;0
+28;"565765";"Geldanlagen im Ausland";"Leben";"Sonstige";40.00;0
+29;"23498239";"Haustiere";"Leben";"Sonstige";10.00;0
+30;"3898931";"Schröder - Mit Bratwurst zum Kanzler";"Leben";"Sonstige";10.00;0
+31;"89899111";"Ist Alkohol eine Lösung";"Leben";"Wissenschaft";30.00;0
+32;"4449989";"Studium ohne Stress";"Küstner";"Sonstige";40.00;0

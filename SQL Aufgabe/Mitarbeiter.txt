@@ -1,0 +1,5 @@
+"MNr";"Zuname";"Vorname";"Ort";"Gehalt";"Sozialversicherungsnummer"
+1;"Meier";"Karl";"Brühl";6500.00;"123-456-789-321"
+2;"Meier";"Karla";"Brühl";6565.00;"123-446-789-999"
+3;"Mayer";"Kunigunde";"Eppelheim";4500.00;"723-756-789-371"
+4;"Schulze";"Karl";"Oftersheim";2500.00;"888-456-789-88"

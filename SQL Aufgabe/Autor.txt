@@ -1,0 +1,11 @@
+"Autoren-Nr";"Name";"Vorname";"Sonstiges"
+1;"Tanenbaum";"H.-J.";
+2;"Schulze";"Hans-Herbert";
+3;"Zehnder";"August";
+4;"Hansen";"A.";
+5;"Schwarze";"A.";
+6;"Schwarze";"Karl";
+7;"Brosius";"Gerhardt";
+8;"Voss";"Andreas";
+9;"Ortmann";"Dirk";
+10;"Hauser";"Georg";

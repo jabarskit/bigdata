@@ -1,0 +1,11 @@
+"Adress-Nr";"PLZ";"Ort";"Straﬂe";"Telefon";"Handy";"eMail"
+2;"12233";"S¸dstadt";"Siedlerstraﬂe";;;
+3;"23441";"Westdorf";"Dorfweg";;;
+4;"21212";"Ostdorf";"Waldpark";;;
+5;"65768";"Karlsdorf";"Engelsgasse 2";;;
+6;"56565";"Hildastadt";"Marktplatz 9";;;
+7;"62222";"Hemsfeld";"Hauptstraﬂe 45";;;
+8;"53535";"Sonstwo";"Hauptstraﬂe 3";;;
+9;"68000";"Irgendwo";"Dort 56";;;
+10;"68232";"Speyer";"Pfalzweg5";;;
+11;"68131";"Mannheim";"Siedlung 4";;;
